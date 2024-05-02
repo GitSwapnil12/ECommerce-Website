@@ -1,0 +1,7 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0,12C0,5.373 5.373,0 12,0L60,0L60,60L12,60C5.373,60 0,54.627 0,48L0,12Z" clip-rule="evenodd" fill-rule="evenodd" fill="#FFFFFF" stroke="#DEE2E7" stroke-width="1" stroke-miterlimit="3.999327"/>
+<path d="M28.333,15L15,15L15,28.333L28.333,28.333L28.333,15Z" fill="#1C1C1C"/>
+<path d="M28.333,31.667L15,31.667L15,45L28.333,45L28.333,31.667Z" fill="#1C1C1C"/>
+<path d="M45,15L31.667,15L31.667,28.333L45,28.333L45,15Z" fill="#1C1C1C"/>
+<path d="M45,31.667L31.667,31.667L31.667,45L45,45L45,31.667Z" fill="#1C1C1C"/>
+</svg>
